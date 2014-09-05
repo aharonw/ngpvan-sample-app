@@ -1,0 +1,7 @@
+{
+  "name": "developers.ngpvan.com",
+  "version": "0.0.1",
+  "dependencies": {
+    "progress": "git@github.com:NGPVAN/progress-sass.git#develop"
+  }
+}
