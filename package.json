@@ -1,0 +1,10 @@
+{
+  "name": "sample-app",
+  "description": "ngpvan innovation platform sample app",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "4.x",
+    "coffee-script": "1.8.x"
+  }
+}
